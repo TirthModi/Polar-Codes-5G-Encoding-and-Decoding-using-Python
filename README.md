@@ -23,9 +23,3 @@ Polar Codes are **capacity-achieving codes** that significantly improve communic
 ✔ **CRC-Aided SCL Decoding** – Integrates **Cyclic Redundancy Check (CRC)** to minimize errors and ensure message integrity.  
 
 ---
-
-## 🛠 Installation  
-Clone this repository:  
-```bash
-git clone https://github.com/your-username/polar-codes.git
-cd polar-codes
